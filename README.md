@@ -3,7 +3,7 @@ A simple app that checks the users input
 
 ## Questions
 ### What does the abbreviation ART stands for?
-Android Runtime
+Android Runtime (compiler)
 
 ### What is Android Jetpack?  
 Android Jetpack is a set of libraries, tools and architectural guidance to help make it quick and easy to build great Android apps. It provides common infrastructure code so you can focus on what makes your app unique
