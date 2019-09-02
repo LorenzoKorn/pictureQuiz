@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pictureQuiz</string>
+    <string name="question1">What kind of animal is this?</string>
+    <string name="inputPlaceholder">animal</string>
+    <string name="confirm">Confirm</string>
+    <string name="image">giraffe</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+</resources>
